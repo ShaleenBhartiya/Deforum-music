@@ -1,6 +1,6 @@
 # Deforum-music 🎥
 
-Welcome to Deforum-music, an innovative implementation combining the power of Deforum with Music Generation! 🚀
+Welcome to Deforum-music, an innovative implementation of Deforum with Music Generation! 🚀
 
 ## Overview
 
