@@ -1,3 +1,3 @@
-## Deforum-music
+# Deforum-music 🎥
 
 Deforum Implementation using Music-Gen
